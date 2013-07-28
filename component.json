@@ -1,0 +1,14 @@
+{
+  "name": "vector-3d",
+  "repo": "mnmly/vector-3d",
+  "description": "3D Vector",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

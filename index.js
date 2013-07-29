@@ -1,5 +1,5 @@
 var proto = require('./proto')
-  , statics = require('./static');
+  , statics = require('./statics');
 
 module.exports = Vector;
 
